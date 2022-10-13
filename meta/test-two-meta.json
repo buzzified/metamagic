@@ -1,1 +1,7 @@
-{}
+{
+  "uri": "test/test-two-meta.jpg",
+  "title": "Test Two Meta",
+  "credit": "This is the credit line",
+  "brief": "this is a brief description of the image, suitable for the figcaption",
+  "description": "This is a longer description of the image suitable for places where a longer description is needed."
+}
